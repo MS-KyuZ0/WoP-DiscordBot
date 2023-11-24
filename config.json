@@ -1,0 +1,12 @@
+{
+  "PREFIX": "z!",
+  "COLORS": {
+    "PRIMARY": "#2B2D31",
+    "SUCCESS": "#16FF00",
+    "DANGER": "#DF2E38"
+  },
+  "ticketparent": "1170102775724658738",
+  "openticket": "1170102973393817632",
+  "ticketLogs": "1176495450640105523",
+  "everyone": "1170090587123351552"
+}
